@@ -10,3 +10,10 @@ The Fitness Web Tracker's architecture includes:
 Frontend: React.js for UI components and Redux/Context API for state management.
 Backend: Node.js and Express.js for server-side logic, MongoDB for data storage.
 Services: User Authentication, Workout Tracking, Nutritional Tracking, Analytics, and Reporting.
+
+# Authors
+| Name | ID | Contribution |
+|----------|----------|----------|
+| Sweety | 2023MT93028 |Design, DB connection, APIs creation and testing on postman, UI, Integration & Documentation  |
+| Aditya Madhav | 2023MT93030 | Design, Database, backend guidance, UI, Integration & Documentation |
+| Devireddy Vasantha Pallavi | 2023MT93025 | Design, Backend, Integration & Documentation |
