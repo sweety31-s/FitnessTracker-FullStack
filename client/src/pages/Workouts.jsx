@@ -71,7 +71,6 @@ const SecTitle = styled.div`
   color: ${({ theme }) => theme.text_primary};
   font-weight: 500;
 `;
-localStorage.setItem('fitnesstracker-app-token', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NDBkZjgwYzRmYWRhOTAxYzliMjliZCIsImlhdCI6MTcxNTU3MDk2NSwiZXhwIjozMTcyNjAwMTMzNjV9.PBILQTE84RL7qJqF2wC88t1lxXBuUuLQXyyCz5dt3Mg');
 const Workouts = () => {
   const dispatch = useDispatch();
   const [todaysWorkouts, setTodaysWorkouts] = useState([]);
